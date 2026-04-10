@@ -423,7 +423,7 @@ app.get("/tutorial", (req, res) => {
             </div>
             <ol>
               <li>Go to <strong>Aternos</strong> and open your server.</li>
-              <li>Install <strong>Paper/Bukkit</strong> as your server software.</li>
+              <li>Install <strong>Spigot/Bukkit</strong> as your server software.</li>
               <li>Enable <strong>Cracked</strong> mode using the green switch.</li>
               <li>Install these plugins: <code>ViaVersion</code>, <code>ViaBackwards</code>, <code>ViaRewind</code></li>
             </ol>
