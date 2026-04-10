@@ -58,7 +58,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": true,
     "chat": true,
     "console-commands": true
