@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Gul Muhammad Gaming!",
-        "I like to play Minecraft!"
+        "Hello Every One",
+        "Subscribe to Gul Muhammad Gaming!"
       ]
     },
     "chat-log": true,
